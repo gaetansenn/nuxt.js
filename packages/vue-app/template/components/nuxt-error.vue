@@ -91,6 +91,9 @@ export default {
   color: #7F828B !important;
   text-decoration: none;
 }
+.__nuxt-error-page svg {
+  display: inline-block;
+}
 .__nuxt-error-page .logo {
   position: fixed;
   left: 12px;
